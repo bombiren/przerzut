@@ -1,0 +1,69 @@
+body {
+    background-color: #FFCC99;
+    font-family: Garamond;
+    text-align: center;
+    margin: 0;
+}
+
+header, footer {
+    background-color: DarkGreen;
+    color: white;
+    padding: 30px;
+    font-size: 140%;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    background-color: MediumSeaGreen;
+    word-spacing: 90px;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+}
+
+main {
+    display: flex;
+}
+
+.lewa {
+    width: 70%;
+    height: 500px;
+}
+
+.prawa {
+    width: 30%;
+    height: 500px;
+    background-color: MediumSeaGreen;
+    text-align: left;
+}
+
+.prawa img {
+    width: 100%;
+}
+
+table {
+    border: 1px dashed DarkGreen;
+    margin: 30px auto;
+}
+
+td, th {
+    padding: 5px;
+}
+
+table tr:hover {
+    background-color: DarkGreen;
+    color: white;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+footer {
+    clear: both;
+}
