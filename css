@@ -43,7 +43,7 @@ main {
 }
 
 .prawa img {
-    width: 100%;
+    width: 70%;
 }
 
 table {
@@ -66,4 +66,7 @@ ul {
 
 footer {
     clear: both;
+    height: 70vh;
+    text-align: center;
+    
 }
