@@ -5,8 +5,7 @@ body {
     margin: 0;
 }
 
-header,
-footer {
+header, footer {
     background-color: DarkGreen;
     color: white;
     padding: 30px;
@@ -44,8 +43,7 @@ main {
 }
 
 .prawa img {
-    width: 100%;
-    height: auto;
+    width: 60%;
 }
 
 table {
@@ -53,8 +51,7 @@ table {
     margin: 30px auto;
 }
 
-td,
-th {
+td, th {
     padding: 5px;
 }
 
